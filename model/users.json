@@ -1,0 +1,43 @@
+[
+  {
+    "username": "Devon Laratt",
+    "password": "$2b$10$iaqZaguv.cks5DYf0PpRIOyjWZqV2h8VQEmyieXoMtsg7lO4FVo2."
+  },
+  {
+    "username": "Lyna Curzi",
+    "password": "$2b$10$98mZ4L2VPlsXD/lcjZ9Ie.NnPBMlfbMNu/sFXI.hsR2RKdBkfQDC6"
+  },
+  {
+    "username": "Ermes Gasparini",
+    "password": "$2b$10$tpBfx4MJ0jiAqO14j9pMceML7twyWn2T22aVNmtLa85D5JAH4FIRO",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkVybWVzIEdhc3BhcmluaSIsImlhdCI6MTY3MDMzMTYxOCwiZXhwIjoxNjcwNDE4MDE4fQ.XmtlURyNnniD-EM92Wz63Si-PGnkUhMb3ZggxC2vGDA"
+  },
+  {
+    "username": "Clarence Kennedy",
+    "password": "$2b$10$xq1gki8s/Lvr9aVH22KRT.YL2yajBBAX72mmdDgsIn4az5AlpTlJC",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkNsYXJlbmNlIEtlbm5lZHkiLCJpYXQiOjE2NzAzNDU1NjYsImV4cCI6MTY3MDQzMTk2Nn0.oRaVGIheVVyAeePHAbj0PLh4CFiub6hpNiunBUm80qE"
+  },
+  {
+    "username": "Silvia Rossi",
+    "password": "$2b$10$YHXP3pBSV.4zlwDC4XbOMusFVByucAWSlSt3qXgFmzDERb/gOBwAi",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNpbHZpYSBSb3NzaSIsImlhdCI6MTY3MDM0NzQ2MCwiZXhwIjoxNjcwNDMzODYwfQ.0qn10z1inDaxrEcCrpqT3by1Sv3TP5f_KGvkHsHSNtc"
+  },
+  {
+    "username": "EndLess Pain",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$oEbHZlazDHE1YnnJ4XdpGuGh9a/JZOO7Xe6WZtRRsSMgprxMXnKza",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkVuZExlc3MgUGFpbiIsImlhdCI6MTY3MDQxODc0MSwiZXhwIjoxNjcwNTA1MTQxfQ.C2QY86IA9VmjFsWbpmxbgcJJG9uCCqfMXEt29QXGNjM"
+  },
+  {
+    "username": "Gianfranco Naselli",
+    "roles": { "User": 2001, "Editor": 1984 },
+    "password": "$2b$10$oEbHZlazDHE1YnnJ4XdpGuGh9a/JZOO7Xe6WZtRRsSMgprxMXnKza",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkdpYW5mcmFuY28gTmFzZWxsaSIsImlhdCI6MTY3MDQxOTI3OCwiZXhwIjoxNjcwNTA1Njc4fQ.4uFoipe5B999RhI_BB6YI7pqp8h8eHjNBbWnZD74Kts"
+  },
+  {
+    "username": "Dave Gray",
+    "roles": { "User": 2001, "Editor": 1984, "Admin": 5150 },
+    "password": "$2b$10$oEbHZlazDHE1YnnJ4XdpGuGh9a/JZOO7Xe6WZtRRsSMgprxMXnKza",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkRhdmUgR3JheSIsImlhdCI6MTY3MDQxOTU0MiwiZXhwIjoxNjcwNTA1OTQyfQ.Kl57JDmtskaqmndZ3C0EorAIPwjGq97r8bBa_LdFPe8"
+  }
+]
