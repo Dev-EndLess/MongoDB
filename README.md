@@ -1,14 +1,12 @@
-# A series on Youtube by Dave Gray on NodeJS/Express/MongoDB
+#  MongoDB Tutorial ⬇️
 
-### This tutorial is the final lesson.
-### We will learn how to apply MongoDB async CRUD operations with async await and Mongoose
-### Reference
+### How to apply MongoDB CRUD operations with async await and Mongoose 
+
+## 📘 Reference 
 
 🚀 MongoDB: https://www.mongodb.com/home
 
 🚀 Mongoose: https://mongoosejs.com/
-
-🚀 YouTube Playlist: https://www.youtube.com/watch?v=-PdjUx9JZ2E&list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw&index=14
 
 ## Some stuff we will see  in this tutorial
 
@@ -18,9 +16,11 @@
 - Create schema with Mongoose
 - Test CRUD with Thunder Client
 
-and much more...
-
-
+<p align="center"> Tutorial by <strong>Dave Gray </strong> 
+  <a href="https://www.youtube.com/watch?v=-PdjUx9JZ2E&list=PL0Zuz27SZ-6OJQfjH8g_CAjgMbLoIleKN">
+    <img width="28" height="20" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png">
+  </a>
+</p> 
 
 
 
